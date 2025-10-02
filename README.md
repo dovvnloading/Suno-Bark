@@ -1,19 +1,17 @@
 # AI Text-to-Speech
 
+
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-> A professional-grade desktop application for generating high-quality AI speech from text using Suno's Bark model, featuring a modern dark-themed interface with real-time waveform visualization.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/985dd108-0097-43e3-b24f-e5d77c10f625" alt="EchoWeave Interface" width="400">
-</p>
+> A simple desktop application for generating high-quality AI speech from text using Suno's Bark model, featuring a modern dark-themed interface with real-time waveform visualization. Despite the models ability to produce decent sounding audio, the system is not good with continuity or consistent preset selection/seeding. 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6f8fa871-3c34-4471-984e-36a96933c661" alt="EchoWeave Interface" width="800">
-</p>
+![Untitled video - Made with Clipchamp (12)](https://github.com/user-attachments/assets/6425fdbf-2c03-47b1-b1c2-409a3a024beb)
+
+<img width="800" height="623" alt="Screenshot 2025-10-02 101413" src="https://github.com/user-attachments/assets/347f5119-74f0-48a2-80f1-a47cdc59953e" />
 
 
 ## Features
