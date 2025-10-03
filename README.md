@@ -85,15 +85,6 @@ EchoWeave supports special markers for non-speech sounds:
 - `[gasps]` - Adds a gasp
 - `[clears throat]` - Adds throat clearing
 
-## Project Structure
-
-```
-echoweave/
-├── echoweave.py          # Main application file
-├── requirements.txt      # Python dependencies
-├── README.md            # This file
-└── LICENSE              # Apache 2.0 License
-```
 
 The complete Visual Studio project files and all source code are included in the main repository for easy access and development.
 
